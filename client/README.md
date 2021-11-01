@@ -1,6 +1,4 @@
- something's wrong with my heroku, and it didn't update my changes to the app.
- It should've render a prototype modal and toast when the rounds action button is pressed, if you run the program normally, that is what you will see, however, heroku refused to comply
- https://ia7final-kevinhermanson.herokuapp.com
+https://ia7final-kevinhermanson.herokuapp.com
 
 
 

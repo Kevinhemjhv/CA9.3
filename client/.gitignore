@@ -9,7 +9,7 @@ client/.pnp
 client/coverage
 
 # production
-build
+
 
 # misc
 client/.DS_Store
