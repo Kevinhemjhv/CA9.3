@@ -374,11 +374,12 @@ button::-moz-focus-inner {
 *************************************************************************/
 
 .toast-container {
-  background-color: lightgoldenrodyellow;
-  width: 100%;
+  top: 100px;
   line-height: 40px;
+  right: 0px;
   display: flex;
-   
+  position: fixed;
+ 
 }
 
 .toast-text {
